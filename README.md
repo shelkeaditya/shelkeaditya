@@ -15,22 +15,6 @@ Most of my learning happens by building. From cloud storage platforms like SkyVa
 
 ---
 
-### What I'm Up To These Days!
-
-**E-Sutra Technologies (current intern)** — work GitHub → Jenkins → SonarQube CI/CD workflow, branch flow Feature → QA → Stage → Main, strict PR review policy.
-
-**SkyVault (building now)** — cloud storage aggregator, pool quota across many Google accounts, split file into chunks on upload spread across accounts, merge back on download. Built with Cloudflare Workers, Hono (backend framework), D1 (database), R2 (object storage). Done: DB schema, Google OAuth 2.0 login, AES-GCM token encryption, JWT sessions, CSRF protection, Wrangler secrets. Next: Provider Layer (CloudProvider interface + GoogleDriveProvider).
-
-**CI/CD Platform** — built automated build/test/deploy pipeline using GitHub Actions.
-
-**Resilient Server Monitoring Platform** — built server health monitor using Flask, deployed on Kubernetes (Minikube). Main interview story.
-
-**DevSecOps CI/CD Pipeline** — built shift-left security pipeline using Trivy (image scan), SonarQube (code quality), Vault (secrets), Checkov (IaC scan).
-
-**Portfolio site** — built with React, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Router. Deployed Cloudflare Pages. Added EmailJS contact form, dark theme, live clock.
-
----
-
 ### Full Tech Stack
 
 **Cloud**
