@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Aditya Shelke 👋</h1>
-<h3 align="center">Cloud & DevSecOps Engineer | AWS · Kubernetes · CI/CD</h3>
+<h3 align="center">Cloud & DevSecOps Engineer</h3>
 
 <p align="center">
   Building <b>SkyVault</b> — a self-hosted cloud storage aggregator on Cloudflare Workers
 </p>
 
 <p align="center">
-  <a href="https://shelkeaditya.dev"><img src="https://img.shields.io/badge/Portfolio-E8820C?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aditya@shelkeaditya.dev"><img src="https://img.shields.io/badge/Email-E8820C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://shelkeaditya.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-E8820C?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shelkeaditya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:work.shelkeaditya@gmail.com"><img src="https://img.shields.io/badge/Email-E8820C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
