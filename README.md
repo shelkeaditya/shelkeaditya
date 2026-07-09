@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Shelke</h1>
-<h3 align="center">Cloud & DevOps Engineer (Cloud & DevSecOps Intern @ E-Sutra Technologies)</h3>
+<h3 align="center">Cloud & DevOps Engineer</h3>
 
 <p align="center">
   <a href="https://shelkeaditya.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-E8820C?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -9,23 +9,23 @@
 
 ---
 
-### Summary
+##  About Me
 
-Cloud & DevSecOps engineer, based Pune. B.Tech IT, specialize Cloud Computing & Info Security, Ajeenkya DY Patil University. AWS Certified Cloud Practitioner (CLF-C02), Fortinet NSE 1-3. Build cloud infra, CI/CD pipelines, shift-left security automation. Job-hunt Cloud/DevOps/Security Engineer roles.
+Most of my learning happens by building. From cloud storage platforms like SkyVault to DevSecOps pipelines and infrastructure automation, I enjoy solving real-world problems with modern cloud technologies.
 
 ---
 
-### What Doing / Did, With What
+### What I'm Up To These Days!
 
 **E-Sutra Technologies (current intern)** — work GitHub → Jenkins → SonarQube CI/CD workflow, branch flow Feature → QA → Stage → Main, strict PR review policy.
+
+**SkyVault (building now)** — cloud storage aggregator, pool quota across many Google accounts, split file into chunks on upload spread across accounts, merge back on download. Built with Cloudflare Workers, Hono (backend framework), D1 (database), R2 (object storage). Done: DB schema, Google OAuth 2.0 login, AES-GCM token encryption, JWT sessions, CSRF protection, Wrangler secrets. Next: Provider Layer (CloudProvider interface + GoogleDriveProvider).
 
 **CI/CD Platform** — built automated build/test/deploy pipeline using GitHub Actions.
 
 **Resilient Server Monitoring Platform** — built server health monitor using Flask, deployed on Kubernetes (Minikube). Main interview story.
 
 **DevSecOps CI/CD Pipeline** — built shift-left security pipeline using Trivy (image scan), SonarQube (code quality), Vault (secrets), Checkov (IaC scan).
-
-**SkyVault (building now)** — cloud storage aggregator, pool quota across many Google accounts, split file into chunks on upload spread across accounts, merge back on download. Built with Cloudflare Workers, Hono (backend framework), D1 (database), R2 (object storage). Done: DB schema, Google OAuth 2.0 login, AES-GCM token encryption, JWT sessions, CSRF protection, Wrangler secrets. Next: Provider Layer (CloudProvider interface + GoogleDriveProvider).
 
 **Portfolio site** — built with React, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Router. Deployed Cloudflare Pages. Added EmailJS contact form, dark theme, live clock.
 
