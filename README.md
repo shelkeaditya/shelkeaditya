@@ -11,7 +11,7 @@
 
 ##  About Me
 
-Most of my learning happens by building. From cloud storage platforms like DevSecOps pipelines and infrastructure automation, I enjoy solving real-world problems with modern cloud technologies.
+Most of my learning happens by building. From cloud storage platforms like CI/CD pipelines and infrastructure automation, I enjoy solving real-world problems with modern cloud technologies.
 
 ---
 
